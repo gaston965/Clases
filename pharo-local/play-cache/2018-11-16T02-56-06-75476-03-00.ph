@@ -1,1 +1,1 @@
-"Longitudes medirPalabras: 'te amo mi vida'"|x|x:= Longitudes new.x medirPalabras:'te amo mi vida'
+"|x|x:= Larga new.x masLarga: 'hola comoooo estas'."Larga miren:'hola como estas'.
